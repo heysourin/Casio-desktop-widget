@@ -2,7 +2,9 @@
 
 A faithful, functional macOS desktop widget that recreates the iconic **Casio A158W** digital watch directly on your desktop wallpaper using [Übersicht](https://tracesof.net/uebersicht/).
 
-![Casio A158W Widget](casio-a158.widget/screenshot.png)
+<p align="center">
+  <img src="casio-a158.widget/screenshot.png" alt="Casio A158W Desktop Widget" width="150" />
+</p>
 
 ---
 
@@ -174,4 +176,3 @@ To ensure your Casio clock is always on your desktop whenever your Mac boots:
   localStorage.removeItem('casio_a158_pos');
   ```
   Then refresh widgets.
-# Casio-desktop-widget
